@@ -1,0 +1,4 @@
+# GET请求
+GET http://{{host}}/api/get?name=zhangsan
+
+###
