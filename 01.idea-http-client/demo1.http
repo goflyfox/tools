@@ -1,4 +1,10 @@
+# curl -i http://httpbin.org/ip
+GET http://httpbin.org/ip
+
+###
+
 # 调用示例
 GET https://www.baidu.com/s?wd=测试
 
 ####
+
