@@ -10,7 +10,7 @@
 
 ## 西瓜视频地址
 
-* [01.idea http client介绍](https://github.com/goflyfox/tools)
+* [01.idea http client介绍](https://www.ixigua.com/i6810402237899080206/)
 
 
 ## 代码地址
