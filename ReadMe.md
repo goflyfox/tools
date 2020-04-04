@@ -4,17 +4,20 @@
 
 * [01.idea http client介绍.md](doc/01.idea-http-client.md)
 * [02.VMwareWorkstation安装虚拟机.md](doc/02.vmware.md)
+* [03.Docker安装及容器运行](doc/03.docker.md)
 
 ## bilibili视频地址
 
 * [01.idea http client介绍](https://www.bilibili.com/video/BV12V411f7ab/)
-* [02.VMwareWorkstation安装虚拟机.md](https://www.bilibili.com/video/BV16t4y1m7a7/)
+* [02.VMwareWorkstation安装虚拟机](https://www.bilibili.com/video/BV16t4y1m7a7/)
+* [03.Docker安装及容器运行](https://www.bilibili.com/video/BV1Vc411h7h1/)
+
 
 ## 西瓜视频地址
 
 * [01.idea http client介绍](https://www.ixigua.com/i6810402237899080206/)
-* [02.VMwareWorkstation安装虚拟机.md](http://mp.toutiao.com/6811545521073685004/)
-
+* [02.VMwareWorkstation安装虚拟机](https://www.ixigua.com/i6811545521073685004/)
+* [03.Docker安装及容器运行](https://www.ixigua.com/i6811905438171267591/)
 
 ## 代码地址
 
