@@ -23,3 +23,7 @@
 
 * github：[https://github.com/goflyfox/tools](https://github.com/goflyfox/tools)
 * gitee：[https://gitee.com/goflyfox/tools](https://gitee.com/goflyfox/tools)
+
+## 其他说明
+
+1. QQ交流群：47919644
